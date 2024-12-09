@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Abigayl
-- 👀 I’m interested in Graphic Design and Game design
-- 🌱 I’m currently learning html/css/js, mysql, .net/C#
+-  Hi, I’m Abigayl
+-  I’m interested in Game design and Software Development and AI
+-  I’m currently  doing The Odin Project
+-  I have A AAS CIS Graphic Design Degree
 
 
 
